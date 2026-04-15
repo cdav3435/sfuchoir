@@ -1,6 +1,6 @@
 I. The Armed Man
 
-14
+	Orch14
 {A} SOP/ALT 0.5
 	FULL UNIS. //MARCH//
 	L'homme.. on dou-ter12
@@ -10,7 +10,7 @@ I. The Armed Man
 {D} Orch2
 {E} START UNIS GGGG
 	L'homme...
-	REPEAT 1st/3 x2 
+		x2 
 	On a fait GGGG
 	Que chac un GGGG
 	\Hau-bre\gon de//fer
@@ -26,6 +26,7 @@ I. The Armed Man
 
 
 II. Choir tacet
+
 
 III. Kyrie
 
@@ -48,17 +49,18 @@ III. Kyrie
 
 IV. Save Me From Bloody Men
 
+
 V. Sanctus
 
 	Orch4
 {A} Sanc-tus sanc-tus
 	sanc-tus do-minus
-	x2
+		x2
 	De-us sa-ba-ott
-	x4
+		x4
 	Orch2
 {B}	Sanc-tus
-	x7
+		x7
 	glo-ri-a/ \tu \\\a3.
 	Orch2
 {C}	Ple-ni sunt..
@@ -73,9 +75,9 @@ V. Sanctus
 {E} Orch 11
 {F}	REPEAT Ple-ni-sunt{C}
 {G}	REPEAT HOSANAs TWICE
-{H}	one two sanc-tus x3
-	one two do-minus
-	x2
+{H}	1 2 sanc-tus x3
+	1 2 do-minus
+		x2
 	Saaaa12
 	-tus.
 
@@ -107,3 +109,151 @@ VI. Hymm Before Action
 
 
 VII. Charge!
+
+	Orch18
+{A}	Orch15
+{B} The trumpets
+		x2
+	With shrill notes of ANger..
+		x2
+	1/4 'a' ending to larms3
+	Orch8
+{C}	SOP/ALT How blessed
+{D} Orch14
+{E}	The double double beat
+		x2
+	Cries har-K..
+	Charge tis to late..
+	1/8 're' ending to treat3
+{F} SOP/ALT How blessed
+	DIES12
+	4
+{G} REPEAT {E}
+{H} Charge! 1111 2324 1111 1
+	8
+{I} Screams
+
+
+VIII. Angry Flames
+
+	Orch10
+{A} Solos
+	"Black red blue dance in the AIR"
+		M3rd up from AIR
+	Merge
+{B} .. over the whole ci-ty4
+{C} Solos..
+	.. fou/-/-/-\-\-\-rs5
+{D} Solos..
+	TEN:"Hair rent.."
+		on"HAIR"
+	death
+
+
+IX. Torches
+
+	Orch6
+{A} ALTO/SOP
+	"..scattered mindless-ly"
+		on"LY"
+	<<their eyes bulging>>2
+{B} SOP/ALT
+	..and so they died.0
+	1 2 thou-sands 4
+	SOP/ALT
+{C} TOH-CHEZ
+		xTHREE (not 4)
+
+
+X. Agnus Dei
+	
+	SOPs
+	S/A/T
+	note from 1st alto mi-se-RE-RE
+	no-\\o-//bi4-//s3
+{A} 8 De i 34
+	4 De i 34
+	A-\\-/gnu-\s de4 \i3
+{B} 7Agnus dei w/triplet
+	7Agnus de i--
+	S/A/T
+	note from 1st alto do-na-NO-BIS
+	pa-\\a-//che4-//m3
+{C} 7Agnus dei w/triplet
+	7Dona no 4bis pa chem
+
+
+XI. Choir tacet
+
+
+XII. Benedictus
+
+	Orch18
+{A} Orch8
+{B} Orch12
+{C} S/T/A
+	note from alto do-mi-ni-II
+	4
+	Be4-ne4-dic4-tus3_
+	qui ve ni tinomine-
+	Do3 mi ni4
+	4
+{D} ff HASANAs (1/8+dotQtr, then 1/4+1/2)
+		x2
+{E} S/T/A "no-mi-ne--"
+	Do3_mi ni8
+
+
+XIII. Better Is Peace
+
+	Orch15
+{A} Solos10
+{B} Orch7
+	Solos7
+{C} 5th Better..
+	al-ways war7
+{D} Orch10
+{E} 1 2 Ring Ring Ring Ring 7 8 x2
+	1 2 Ri-ing 4 x2
+	12Ring45Ring,Ri-ing9... x2
+	Ring2 /Ring2 \\Ring4
+	Ring2 /Ring2 \\Ring8
+{F} Ring out the thousand wars of old2
+	Ring in the thousand years of peace2
+	Ring out the old- ring in //the \new-
+	Ring happy bells across the snow-\-
+	1The YEAR is GOing LET him GO x2
+	Ring out the false ring in the true7
+	8
+{G} Ring out old shapes of foul disease2
+	Ring out the narrowing lust of gold2
+	Ring out the thou-sand wars- //of\old-
+	Ring in the thousand years of pea-\ce-
+	12322332Ring x4
+	Ring in the thousand years of peace7
+{H} Orch8
+{I} Ring in the valiant man and free2
+	The larger heart the kindlier hand2
+	Ring out the dark-ness of- //the\land-
+	Ring in the christ that is to be-\-
+	1The YEAR is GOing LET him GO x2
+	12322332Ring x2
+	Ring out the false ring in the true7
+{J} 1 2 Ring Ring Ring Ring 7 8 x2
+	1 2 Ri-ing 4 x2
+	12Ring45Ring,Ri-ing9... x2
+	Ring2 /Ring2 \\Ri/ng4 x3
+	Ri/ng4
+	Ring.
+{K}	God shall wipe a-way all tears
+	And--- there- shall be no more death2
+	Nei-ther- sorrow no--r cry-ing-
+	Nei--ther shall there be- any more pain
+	Praise /-/-/-
+	Praise 2
+	Praise 2\4
+	Praise /-/-/-
+	Praise 2
+	Praise--the//Lord2
+	Praise--\the\Lo/rd
+	Praise 2\2\2\4
